@@ -1,0 +1,6 @@
+pandas
+seaborn
+scikit-learn
+pyngrok
+python-dotenv
+flask
